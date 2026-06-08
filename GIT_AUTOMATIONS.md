@@ -10,8 +10,9 @@ O comando `up` automatiza o fluxo de adicionar, commitar e enviar alterações c
 
 **Uso:**
 ```cmd
-up "sua mensagem de commit"
+up minha mensagem de commit sem aspas
 ```
+*(Também funciona com aspas: `up "minha mensagem"`, mas não é mais obrigatório para frases longas).*
 
 **O que ele faz por baixo dos panos:**
 1. `git add .` (Adiciona todas as modificações)
