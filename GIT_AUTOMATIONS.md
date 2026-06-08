@@ -1,4 +1,4 @@
- # 🚀 Guia de Automações Git (Windows CMD)
+# 🚀 Guia de Automações Git (Windows CMD)
 
 Este guia contém as instruções para as personalizações e comandos rápidos configurados para otimizar seu fluxo de trabalho com Git.
 
